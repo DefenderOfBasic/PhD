@@ -24,3 +24,34 @@ It would be interesting to recreate the timeline of how it spread. Did a few spe
 Another interesting example are the words **egregore** and **psychofauna**. They mean the same thing, but `@visakanv` coined the latter [Nov 5 2022](https://x.com/i/web/status/1588796630287147009) as an attempt to create an easier to remember term: 
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/36a54ae1-619d-47bb-a8c3-126f98147caf" />
+
+### Lexicon analysis
+
+I created this simple Jupyter notebook as a template: https://colab.research.google.com/drive/109XOgTWj-sajpAYhDCNPfts5zvdkpi_s
+
+I generated the 10 most common bigrams for each user, and asked people on twitter to guess who was who (these are bigrams for users `@eshear, @NathanpmYoung, and @nosilverv`: 
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/2f985dbf-0888-4e00-8aba-cfb70714a830" />
+
+It was interesting to see "don't know" appear in almost everyone's top 10 bigrams. My current theory is that this is because this particular community cares a lot about truth & epistemology, and this comes out in the language used, but we'll need a control group to verify this. 
+
+### Personal semantic search
+
+Source code: https://github.com/DefenderOfBasic/twitter-semantic-search
+
+I built a basic semantic search which is very useful for finding tweets & threads by meaning, or that are related to a general topic. Here the query is a paraphrase of a tweet I made & system can find it even if the keywords aren't in the search query:
+
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/b3bc8b01-0e61-44a9-b41c-e56c2a1a2d21" />
+
+This can be the basis of a lot of future work, like automatically finding topics of overlap between two or more users. It can also be used to cluster tweets together and graph them over time, to see how the ideas & themes in each person's writing have evolved over time:
+
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/ef58b1e2-bda8-4105-9438-1dc2bc15b378" />
+
+### Future work
+
+The general areas of focus are (1) coordination and (2) sense making. When new discourse flares up, I want to know the history of it & how we got here. When I meet someone new, I want to know how much our beliefs & values overlap. Tools that make my writing legible & searchable help me find others who are aligned with my work.
+
+Some specific ideas:
+
+- A chrome extension that scrapes tweets as I view them and adds them to the open database, will give us a "twitter firehose" of data comparable to the Blue Sky firehose (focused on a specific community)
+- An app similar to the "ngram viewer" but with semantic search. Would allow us to trace the evolution & timeline not just of specific words but of ideas & meaning
