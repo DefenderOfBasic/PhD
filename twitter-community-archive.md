@@ -47,6 +47,8 @@ This can be the basis of a lot of future work, like automatically finding topics
 
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/ef58b1e2-bda8-4105-9438-1dc2bc15b378" />
 
+_(the table above is from an [app that Xiq is working on](https://x.com/DefenderOfBasic/status/1866486560239313136/))_
+
 ### Future work
 
 The general areas of focus are (1) coordination and (2) sense making. When new discourse flares up, I want to know the history of it & how we got here. When I meet someone new, I want to know how much our beliefs & values overlap. Tools that make my writing legible & searchable help me find others who are aligned with my work.
