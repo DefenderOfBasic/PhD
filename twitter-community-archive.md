@@ -25,6 +25,10 @@ Another interesting example are the words **egregore** and **psychofauna**. They
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/36a54ae1-619d-47bb-a8c3-126f98147caf" />
 
+The word **psyop** entered this particular community's vocabulary in 2020. 
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/4060c12e-8c0f-4a13-9548-d6847897d933" />
+
 ### Lexicon analysis
 
 I created this simple Jupyter notebook as a template: https://colab.research.google.com/drive/109XOgTWj-sajpAYhDCNPfts5zvdkpi_s
