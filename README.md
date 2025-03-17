@@ -25,9 +25,13 @@ See [current_projects.md](current_projects.md)
 
 ### 💰 Funding
 
-Currently self funded. 
+Currently funded by:
 
-If you know of any funding opportunities for my work please let me know. 
+- Tekne Labs (https://x.com/TekneLabs)
+- Kanro (https://kanro.fi/)
+- Analogue (https://analoguegroup.org/)
+
+Plus various community contributions.
 
 <a href="https://ko-fi.com/defenderofbasic">
 <img width="100" alt="support_me_on_kofi_badge_dark" src="https://github.com/user-attachments/assets/df19236a-d8e3-434f-b405-cd903d2f4739">
