@@ -31,7 +31,7 @@ The word **psyop** entered this particular community's vocabulary in 2020.
 
 Compare this with the word **vibe** which has a more organic shape:
 
-<img width="450" height="560" alt="image" src="https://github.com/user-attachments/assets/a1845112-05e2-4992-84e7-b6f5900440ef" />
+<img width="450" height="auto" alt="image" src="https://github.com/user-attachments/assets/a1845112-05e2-4992-84e7-b6f5900440ef" />
 
 
 ### Lexicon analysis
@@ -40,7 +40,7 @@ I created this simple Jupyter notebook as a template: https://colab.research.goo
 
 I generated the 10 most common bigrams for each user, and asked people on twitter to guess who was who (these are bigrams for users `@eshear, @NathanpmYoung, and @nosilverv`: 
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/2f985dbf-0888-4e00-8aba-cfb70714a830" />
+<img width="450" height="auto" alt="image" src="https://github.com/user-attachments/assets/2f985dbf-0888-4e00-8aba-cfb70714a830" />
 
 It was interesting to see "don't know" appear in almost everyone's top 10 bigrams. My current theory is that this is because this particular community cares a lot about truth & epistemology, and this comes out in the language used, but we'll need a control group to verify this. 
 
